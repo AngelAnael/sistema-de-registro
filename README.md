@@ -2,6 +2,6 @@
 
 - Estado del proyecto: En construcion.
 
-para ejecutar el sitema deves poner :
+para ejecutar el sitema, debes poner :
 
 ```npm intall react```
